@@ -1,5 +1,10 @@
-# GRC-Security-Audit-CipherPay
-A professional GRC security audit and risk assessment report  for a fictional fintech company — CipherPay Ltd. Mapped to  NIST CSF, ISO 27001, PCI-DSS and GDPR frameworks.
+# 🔐 GRC Security Audit & Risk Assessment — CipherPay Ltd
+
+> A professional security audit report conducted as a Junior GRC Analyst,
+> assessing a fictional fintech startup against NIST CSF, ISO 27001,
+> PCI-DSS and GDPR frameworks.
+
+---
 
 #  Security Audit & Risk Assessment Report
 
